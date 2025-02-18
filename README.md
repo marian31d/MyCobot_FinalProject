@@ -11,6 +11,7 @@ The packages used in the code are:
 - pyserial
 - numpy
 - opencv
+
 The GUI code uses a special font that should also be downloaded, the font is WINGDNG3 it should be copied to the location "Lib > site-packages > kivy > data > fonts" in project folder.
 
 In addition to all the packages in python, you'll need to download the driver of the Robot, instructions on how to do that can be found in the link:
